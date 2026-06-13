@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Sault Ste Marie
+
+> Geotechnical engineering services in Sault Ste Marie, Canada.
+
+## Services
+- [Anchors](https://sault-ste-marie.geotechnicalengineering.vip/anchors/)
+- [Cbr Road](https://sault-ste-marie.geotechnicalengineering.vip/cbr-road/)
+- [Cpt Test](https://sault-ste-marie.geotechnicalengineering.vip/cpt-test/)
+- [Deep Excavations](https://sault-ste-marie.geotechnicalengineering.vip/deep-excavations/)
+- [Excavation Monitoring](https://sault-ste-marie.geotechnicalengineering.vip/excavation-monitoring/)
+- [Excavations](https://sault-ste-marie.geotechnicalengineering.vip/excavations/)
+- [Flexible Pavement](https://sault-ste-marie.geotechnicalengineering.vip/flexible-pavement/)
+- [Footings](https://sault-ste-marie.geotechnicalengineering.vip/footings/)
+- [Foundations](https://sault-ste-marie.geotechnicalengineering.vip/foundations/)
+- [Geophysics](https://sault-ste-marie.geotechnicalengineering.vip/geophysics/)
+- [Grain Size](https://sault-ste-marie.geotechnicalengineering.vip/grain-size/)
+- [Ground Improvement](https://sault-ste-marie.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://sault-ste-marie.geotechnicalengineering.vip/grouting/)
+- [In Situ Permeability](https://sault-ste-marie.geotechnicalengineering.vip/in-situ-permeability/)
+- [Investigation](https://sault-ste-marie.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://sault-ste-marie.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://sault-ste-marie.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://sault-ste-marie.geotechnicalengineering.vip/liquefaction/)
+- [Masw](https://sault-ste-marie.geotechnicalengineering.vip/masw/)
+- [Mat Foundations](https://sault-ste-marie.geotechnicalengineering.vip/mat-foundations/)
+- [Piles](https://sault-ste-marie.geotechnicalengineering.vip/piles/)
+- [Plate Load Test](https://sault-ste-marie.geotechnicalengineering.vip/plate-load-test/)
+- [Resistivity](https://sault-ste-marie.geotechnicalengineering.vip/resistivity/)
+- [Retaining Walls](https://sault-ste-marie.geotechnicalengineering.vip/retaining-walls/)
+- [Rigid Pavement](https://sault-ste-marie.geotechnicalengineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://sault-ste-marie.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://sault-ste-marie.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://sault-ste-marie.geotechnicalengineering.vip/seismic/)
+- [Seismic Isolation](https://sault-ste-marie.geotechnicalengineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://sault-ste-marie.geotechnicalengineering.vip/seismic-microzonation/)
+- [Seismic Refraction](https://sault-ste-marie.geotechnicalengineering.vip/seismic-refraction/)
+- [Slope Stability](https://sault-ste-marie.geotechnicalengineering.vip/slope-stability/)
+- [Slopes](https://sault-ste-marie.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://sault-ste-marie.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://sault-ste-marie.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://sault-ste-marie.geotechnicalengineering.vip/stone-columns/)
+- [Test Pits](https://sault-ste-marie.geotechnicalengineering.vip/test-pits/)
+- [Triaxial](https://sault-ste-marie.geotechnicalengineering.vip/triaxial/)
+- [Vibrocompaction](https://sault-ste-marie.geotechnicalengineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://sault-ste-marie.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in Sault Ste Marie, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
